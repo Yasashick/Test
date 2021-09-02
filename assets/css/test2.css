@@ -7,6 +7,9 @@ body {
 img {
     max-width: 100%;
     height: auto;
+    border: 1px solid #9e9e9e;
+    padding: 7px;
+    border-radius: 6px;
 }
 section{
     padding: 100px 0;
