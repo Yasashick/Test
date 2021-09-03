@@ -8,15 +8,9 @@
 	img {
 		max-width: 100%;
 		height: auto;
-<<<<<<< HEAD
-		border: 1px solid gray;
-		padding: 5px;
-		border-radius: 3px;
-=======
 		border: 2px dashed #828282;
 		padding: 9px;
 		border-radius: 7px;
->>>>>>> test3
 	}
 	section{
 		padding: 100px 0;
